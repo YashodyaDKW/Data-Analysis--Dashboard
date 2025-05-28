@@ -12,6 +12,7 @@ https://www.kaggle.com/datasets/ertugrulesol/online-retail-data
 - Which category has the highest demand?
 - Relationship between sales and review score
 - Relationship between quantity of products ordered by age
-- Dashboard intercation <a href="https://github.com/YashodyaDKW/Data-Analysis--Dashboard/blob/main/Sales-dashboard1.png">view Dashboard 1</a>
+- Dashboard interaction <a href="https://github.com/YashodyaDKW/Data-Analysis--Dashboard/blob/main/Sales-dashboard1.png">view Dashboard 1</a>
+                        <a href="
 
 
