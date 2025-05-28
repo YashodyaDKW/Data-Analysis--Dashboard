@@ -22,7 +22,10 @@ https://www.kaggle.com/datasets/ertugrulesol/online-retail-data
 - Explore sales over time
 - Investigate review score distribution and its relationship with other variables
 - Create bar charts, line plots, , Scatterplots and Filled map to illustrate trends and patterns
-- Highlight key findings using dashboards in Power BI 
+- Highlight key findings using dashboards in Power BI
+
+## Dashboard 1
+![
 
                        
 
