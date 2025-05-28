@@ -13,6 +13,6 @@ https://www.kaggle.com/datasets/ertugrulesol/online-retail-data
 - Relationship between sales and review score
 - Relationship between quantity of products ordered by age
 - Dashboard interaction <a href="https://github.com/YashodyaDKW/Data-Analysis--Dashboard/blob/main/Sales-dashboard1.png">view Dashboard 1</a>
-                        <a href="
+                        <a href="https://github.com/YashodyaDKW/Data-Analysis--Dashboard/blob/main/Sales-dashboard2.png">view Dashboard 2</a>
 
 
