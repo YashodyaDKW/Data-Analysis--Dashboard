@@ -4,3 +4,4 @@ This project aims to analyze a synthetic e-commerce dataset through EDA and visu
 
 ## Dataset used
 https://www.kaggle.com/datasets/ertugrulesol/online-retail-data
+
