@@ -14,6 +14,16 @@ https://www.kaggle.com/datasets/ertugrulesol/online-retail-data
 - Relationship between quantity of products ordered by age
 - Dashboard interaction <a href="https://github.com/YashodyaDKW/Data-Analysis--Dashboard/blob/main/Sales-dashboard1.png">view Dashboard 1</a>
                         <a href="https://github.com/YashodyaDKW/Data-Analysis--Dashboard/blob/main/Sales-dashboard2.png">view Dashboard 2</a>
+
+## Methodology
+- Handled missing values (gender,review score)
+- Analyze customer demographics (age, gender, city)
+- Examine product categories, prices, and quantity trends
+- Explore sales over time
+- Investigate review score distribution and its relationship with other variables
+- Create bar charts, line plots, , Scatterplots and Filled map to illustrate trends and patterns
+- Highlight key findings using dashboards in Power BI 
+
                        
 
 
