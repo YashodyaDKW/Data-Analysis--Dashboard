@@ -1,2 +1,3 @@
-# Data-Analysis--Dashboard
-I developed a comprehensive project in PowerBI, creating multiple dashboards to analyze the online retail sales data.This process involves several stages, including Data preprocessing, Data cleaning and Data visualization
+# Synthetic Retail Data Analysis for Customer Behavior and Sales Optimization (Interactive Dashboard creation using PowerBI)
+## Project Objective
+This project aims to analyze a synthetic e-commerce dataset through EDA and visualization to uncover insights into customer behavior, product performance, sales trends, and the factors influencing review scores and purchasing patterns.
