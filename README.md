@@ -27,6 +27,9 @@ https://www.kaggle.com/datasets/ertugrulesol/online-retail-data
 ## Dashboard 1
 ![Sales-dashboard1.png](https://github.com/YashodyaDKW/Data-Analysis--Dashboard/blob/main/Sales-dashboard1.png)
 
+## Dashboard 2
+![Sales-dashboard2.png]
+
                        
 
 
