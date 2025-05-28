@@ -42,6 +42,9 @@ https://www.kaggle.com/datasets/ertugrulesol/online-retail-data
 - Cash on Delivery is the most used payment method (1.1K items).
 - Most days saw fewer than 20 product orders, with spikes around specific dates.
 
+## Conclusion
+This project analyzed the synthetic e-commerce data reveals steady sales activity with peaks in mid and early-year months. Electronics and Fashion are the top-selling categories. Purchases are balanced across genders and most common among middle-aged customers. Cash on Delivery is the leading payment method. Higher review scores drive more sales, but many transactions lack reviews. These insights help understand customer behavior, product trends, and sales drivers for better decision-making.
+
 
 
                        
