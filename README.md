@@ -25,7 +25,7 @@ https://www.kaggle.com/datasets/ertugrulesol/online-retail-data
 - Highlight key findings using dashboards in Power BI
 
 ## Dashboard 1
-![Sales-dashboard1.png](
+![Sales-dashboard1.png](https://github.com/YashodyaDKW/Data-Analysis--Dashboard/blob/main/Sales-dashboard1.png)
 
                        
 
